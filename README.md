@@ -15,6 +15,12 @@
 
 # To install
 `$ git clone https://github.com/JorRaf/bhut_it.git`
-`$ composer install`
 
+`$ composer install`
+#to run
+`$ ./src/run.php`
+or
+`$ php src/run.php`
+#to run tests
+`$ phpunit`
 ###Done!
