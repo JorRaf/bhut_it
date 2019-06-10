@@ -17,10 +17,16 @@
 `$ git clone https://github.com/JorRaf/bhut_it.git`
 
 `$ composer install`
-#to run
+
+# To run
 `$ ./src/run.php`
+
 or
+
 `$ php src/run.php`
-#to run tests
+
+# To run tests
+
 `$ phpunit`
+
 ###Done!
