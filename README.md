@@ -5,13 +5,15 @@
 - Quando for múltiplos de 3, print “BHUT.;
 - Quando for múltiplo de 5 print “IT”;
 - Qunado  for multiplo de 3 e 5, print “BHUT IT”;
+- 1 IF;
+- Sem `ELSE`, `ELSE IF` ou ternário;
+- Testes unitários”;
 
 ### Requisitos
 
-- Princípios do SOLID;
-- 1 IF;
-- Você não pode usar `ELSE`, `ELSE IF` ou ternário.;
-- Testes unitários”;
+-  GIT;
+-  PHP;
+- COMPOSER;
 
 # To install
 `$ git clone https://github.com/JorRaf/bhut_it.git`
