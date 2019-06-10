@@ -1,0 +1,25 @@
+{
+    "name": "jorraf/desafio",
+    "description": "Este programa print todos os números de 1 até 100. Porém, quando for múltiplos de 3, print “BHUT”, se for múltiplo de 5 print “IT” e se for multiplo de 3 e 5, print “BHUT IT”",
+    "authors": [
+        {
+            "name": "Jorge Rafael",
+            "email": "jorrafoliver@gmail.com"
+        }
+    ],
+    "require": {
+      "phpunit/phpunit" : "^6"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "src/"
+        }
+
+    },
+
+    "autoload-dev" : {
+        "psr-4" : {
+            "Tests\\" : "tests/"
+        }
+  }
+}
