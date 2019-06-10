@@ -30,5 +30,6 @@ or
 # To run tests
 
 `$ phpunit`
-
+or 
+`$ ./vendor/bin/phpunit`
 ###Done!
